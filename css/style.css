@@ -8,7 +8,7 @@ nav ul{
 nav li a{
     text-decoration: none;
     color: black;
-    padding: 15px;
+    padding: 5px;
     
 }
 nav li a:hover{
@@ -16,4 +16,8 @@ nav li a:hover{
     background-color: black;
     color: white;
     padding: 5px 5px;
+}
+.footer-container a{
+    text-decoration: none;
+    color: white;
 }
