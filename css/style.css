@@ -1,0 +1,19 @@
+.logo-container img{
+    width: 150px;
+    height: 120px;
+}
+nav ul{
+    list-style: none;
+}
+nav li a{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+    
+}
+nav li a:hover{
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding: 5px 5px;
+}
